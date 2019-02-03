@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  ExternalScreenDemo
-//
-//  Created by Andrew Muncey on 03/02/2019.
-//  Copyright © 2019 Andrew Muncey. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
